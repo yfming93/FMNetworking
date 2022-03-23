@@ -9,7 +9,7 @@
 #import "FMRequestBase.h"
 #import "FMNetworkingTools+FMAdd.h"
 #import "FMNetworkingManager.h"
-#import <AFNetworking.h>
+#import "AFNetworking.h"
 
 @implementation FMRequestBase
 
